@@ -1,6 +1,7 @@
 streamlit
 networkx
-matplotlib
 pandas
-pydeck
+matplotlib
 folium
+streamlit-folium
+geopy
